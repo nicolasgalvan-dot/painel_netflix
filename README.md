@@ -1,10 +1,10 @@
 # painel_netflix
 Painel da netflix elaborado pelos alunos Ismael Correia, Nicolas Galvan e Gustavo Gaeta
-# 🎬 Clone da Tela de Entrada da Netflix
+#Clone da Tela de Entrada da Netflix
 
 Este projeto consiste na recriação da tela de entrada (landing page) da Netflix, com foco em design moderno, responsividade e organização de código. O objetivo principal foi praticar habilidades de desenvolvimento front-end, especialmente HTML, CSS e conceitos de layout.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 A aplicação simula a página inicial da Netflix, incluindo:
 
@@ -15,13 +15,13 @@ A aplicação simula a página inicial da Netflix, incluindo:
 - Layout responsivo
 - Estilo visual semelhante ao original
 
-## 🚀 Tecnologias Utilizadas
+##Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
 - (Opcional) JavaScript  
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto foi desenvolvido com o intuito de:
 
@@ -30,9 +30,9 @@ Este projeto foi desenvolvido com o intuito de:
 - Trabalhar com design inspirado em plataformas reais  
 - Aprender organização de código  
 
-## 📷 Preview
+## Preview
 
 <!-- Adicione aqui um print do seu projeto -->
 ![Preview do Projeto](./assets/preview.png)
 
-## 📂 Estrutura de Pastas
+##Estrutura de Pastas
