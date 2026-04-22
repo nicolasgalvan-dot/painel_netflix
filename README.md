@@ -30,9 +30,4 @@ Este projeto foi desenvolvido com o intuito de:
 - Trabalhar com design inspirado em plataformas reais  
 - Aprender organização de código  
 
-## Preview
 
-<!-- Adicione aqui um print do seu projeto -->
-![Preview do Projeto](./assets/preview.png)
-
-##Estrutura de Pastas
